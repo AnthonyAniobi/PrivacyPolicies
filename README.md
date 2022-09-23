@@ -2,4 +2,6 @@
 
 Privacy policies
 
-## All my Policies
+## Policies created here
+- [ ] Solar consult
+- [ ] Invoice Reciept and Memo
