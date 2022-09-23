@@ -6,8 +6,8 @@ import '../screens/homepage/homepage.dart';
 
 class AppRoutes {
   static const String home = '/';
-  static const String solarconsult = 'solarconsult';
-  static const String invoicereceiptmemo = 'invoicereceiptmemo';
+  static const String solarconsult = '/solarconsult';
+  static const String invoicereceiptmemo = '/invoicereceiptmemo';
 }
 
 class AppRouter {
