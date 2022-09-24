@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:privacy_policies/screens/policies/solar_consult/data/data.dart';
+import 'package:privacy_policies/screens/policies/solar_consult/data/solar_consult_data.dart';
 
 class SolarConsult extends StatelessWidget {
   const SolarConsult({super.key});

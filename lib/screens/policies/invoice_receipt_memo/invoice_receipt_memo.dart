@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:privacy_policies/screens/policies/invoice_receipt_memo/data/data.dart';
+import 'package:privacy_policies/screens/policies/invoice_receipt_memo/data/invoice_receipt_memo_data.dart';
 
 class InvoiceReceiptMemo extends StatelessWidget {
   const InvoiceReceiptMemo({super.key});
