@@ -20,8 +20,11 @@ class HomePage extends StatelessWidget {
           children: const [
             ProjectTile(title: 'Solar Consult', route: AppRoutes.solarconsult),
             ProjectTile(
-                title: 'Invoice Receipt and memo',
+                title: 'Offline document generator',
                 route: AppRoutes.invoicereceiptmemo),
+            ProjectTile(
+                title: 'Question paper builder',
+                route: AppRoutes.questionpaperbuilder),
           ],
         ));
   }
