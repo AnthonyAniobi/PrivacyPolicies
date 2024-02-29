@@ -25,6 +25,9 @@ class HomePage extends StatelessWidget {
             ProjectTile(
                 title: 'Question paper builder',
                 route: AppRoutes.questionpaperbuilder),
+            ProjectTile(
+                title: 'HabitTracker todolist',
+                route: AppRoutes.habittrackertodolist),
           ],
         ));
   }
