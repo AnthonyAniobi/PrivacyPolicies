@@ -1,10 +1,9 @@
 class PurplestoneData {
   static const String policy = '''
-Privacy Policy
 
-Last updated: February 29, 2024
 Privacy Policy  
-Effective Date: [Insert Date]  
+
+Last updated: March 28, 2025
 
 1. Introduction  
 Welcome to PurpleStone! Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and website (purplestone.shop). By using our services, you agree to the collection and use of information in accordance with this policy.
