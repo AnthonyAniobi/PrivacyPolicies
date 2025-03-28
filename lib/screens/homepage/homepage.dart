@@ -28,6 +28,7 @@ class HomePage extends StatelessWidget {
             ProjectTile(
                 title: 'HabitTracker todolist',
                 route: AppRoutes.habittrackertodolist),
+            ProjectTile(title: 'Purplestone', route: AppRoutes.purplestone),
           ],
         ));
   }
