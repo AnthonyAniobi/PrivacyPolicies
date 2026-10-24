@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:privacy_policies/models/app_router.dart';
-import 'package:privacy_policies/screens/homepage/homepage.dart';
-import 'package:privacy_policies/screens/policies/invoice_receipt_memo/invoice_receipt_memo.dart';
-import 'package:privacy_policies/screens/policies/solar_consult/solar_consult.dart';
 import 'package:url_strategy/url_strategy.dart';
 
 void main() {

@@ -5,6 +5,7 @@ import 'package:privacy_policies/screens/policies/question_paper_builder/questio
 import 'package:privacy_policies/screens/policies/sefy/sefy.dart';
 import 'package:privacy_policies/screens/policies/solar_consult/solar_consult.dart';
 import 'package:privacy_policies/screens/policies/todolist_habit_tracker/todo_list_habit_tracker.dart';
+import 'package:privacy_policies/screens/policies/xes/xes.dart';
 
 import '../screens/homepage/homepage.dart';
 
@@ -16,6 +17,7 @@ class AppRoutes {
   static const String habittrackertodolist = '/habittrackertodolist';
   static const String purplestone = '/purplestone';
   static const String sefy = '/sefy';
+  static const String xes = '/xes';
 }
 
 class AppRouter {
@@ -27,5 +29,6 @@ class AppRouter {
     AppRoutes.habittrackertodolist: (context) => const TodolistHabitTracker(),
     AppRoutes.purplestone: (context) => const Purplestone(),
     AppRoutes.sefy: (context) => const Sefy(),
+    AppRoutes.xes: (context) => const Xes(),
   };
 }
