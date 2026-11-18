@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:privacy_policies/screens/policies/Ip_alarm/ip_alarm.dart';
 import 'package:privacy_policies/screens/policies/invoice_receipt_memo/invoice_receipt_memo.dart';
 import 'package:privacy_policies/screens/policies/purplestone/purplestone.dart';
 import 'package:privacy_policies/screens/policies/question_paper_builder/question_paper_builder.dart';
@@ -18,6 +19,7 @@ class AppRoutes {
   static const String purplestone = '/purplestone';
   static const String sefy = '/sefy';
   static const String xes = '/xes';
+  static const String ipalarm = '/ipalarm';
 }
 
 class AppRouter {
@@ -30,5 +32,6 @@ class AppRouter {
     AppRoutes.purplestone: (context) => const Purplestone(),
     AppRoutes.sefy: (context) => const Sefy(),
     AppRoutes.xes: (context) => const Xes(),
+    AppRoutes.ipalarm: (context) => const IPAlarm(),
   };
 }
